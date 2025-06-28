@@ -5,7 +5,7 @@ from typing import Dict
 
 # ✅ 替换为你的真实 API KEY
 client = OpenAI(
-    api_key="sk-IRIZnFyJ1lBZsW13TDxUzL0crNsVDBJ2OgvCqU34iycS97c3",
+    api_key="sk-xxx",
     base_url="https://api.chatfire.cn/v1"  # 修改为你实际使用的服务地址
 )
 

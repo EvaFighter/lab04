@@ -3,7 +3,7 @@ from openai.types.chat import ChatCompletion
 
 # 替换为你自己的 BASE_URL 和 API_KEY
 BASE_URL = "https://api.chatfire.cn/v1"
-API_KEY = "sk-IRIZnFyJ1lBZsW13TDxUzL0crNsVDBJ2OgvCqU34iycS97c3"
+API_KEY = "sk-"
 
 # 初始化客户端
 client = OpenAI(

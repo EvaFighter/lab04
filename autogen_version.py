@@ -7,7 +7,7 @@ config = {
     "config_list": [
         {
             "model": "gpt-4o",  # 或 gpt-35-turbo 等
-            "api_key": "sk-IRIZnFyJ1lBZsW13TDxUzL0crNsVDBJ2OgvCqU34iycS97c3",
+            "api_key": "sk-xxx",
             "base_url": "https://api.chatfire.cn/v1"  # ✅ 自定义 base URL
         }
     ],

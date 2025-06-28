@@ -2,7 +2,7 @@
 
 curl https://api.chatfire.cn/v1/chat/completions\
   -H "Content-Type: application/json" \
-  -H "Authorization: sk-IRIZnFyJ1lBZsW13TDxUzL0crNsVDBJ2OgvCqU34iycS97c3" \
+  -H "Authorization: sk-" \
   -d '{
     "model": "gpt-4o",
     "messages": [
